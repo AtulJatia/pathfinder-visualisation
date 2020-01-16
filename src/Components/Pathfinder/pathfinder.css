@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#table {
+    border-collapse: collapse;
+    margin: auto auto;
+    border: 0.7rem solid rgb(12, 53, 71);
+}
+
+.main-header {
+    display: flex;
+    height: 6rem;
+    padding: 1rem;
+}
+
+
+.main-header h1 {
+    flex: 2;
+    font-size: 2.5rem;
+}
+
+.path-finder-icon {
+    width: 4.5rem;
+    margin: 0 1rem 1rem 1rem;
+    height: 4.5rem;
+}
+
+.main-header__name {
+    flex: 1;
+}
+
+.main-header__clear {
+    flex: 1;
+}
+
+.main-header__draw-walls {
+    flex: 1;
+}
+
+
+.main-header__name button {
+    width: 70%;
+    border: none;
+    background-color: #1abc9c;
+    height: 100%;
+    font-size: 1.6rem;
+    font-weight: 600;
+    padding: 1rem;
+}
+
+.main-header__draw-walls button {
+    width: 70%;
+    border: none;
+    background-color: #3498db;
+    height: 100%;
+    font-size: 1.6rem;
+    font-weight: 600;
+    padding: 1rem;
+}
+
+.main-header__clear button {
+    width: 70%;
+    border: none;
+    background-color: #e74c3c;
+    height: 100%;
+    font-size: 1.6rem;
+    font-weight: 600;
+    padding: 1rem;
+}

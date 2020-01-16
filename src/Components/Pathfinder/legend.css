@@ -1,0 +1,34 @@
+.legend-main {
+    display: flex;
+    height: 6rem;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.each-legend {
+    display: flex;
+    margin: 2rem;
+}
+
+.legend-icon img {
+    width: 2.5rem;
+}
+
+.legend-name {
+    font-size: 1.6rem;
+    margin: 0 1rem;
+    font-weight: 600;
+}
+
+.wall-legend {
+    width: 2.8rem;
+    height: 2.8rem;
+    background-color: rgb(12, 53, 71);
+}
+
+.shortest-path-legend {
+    width: 2.8rem;
+    height: 2.8rem;
+    background-color: rgb(250, 250, 14);
+}
+
