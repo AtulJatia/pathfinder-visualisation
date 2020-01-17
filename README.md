@@ -12,7 +12,7 @@ A demo can be found at: https://atuljatia.github.io/pathfinder-visualisation/
 
 <br>
 
-## Screenshots
+## SCREENSHOTS
 
 <h3> Drawing walls</h3>
 
