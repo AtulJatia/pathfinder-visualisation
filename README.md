@@ -4,7 +4,7 @@ This project uses **dijkstra's algorithm** to find the shortest path between a *
 
 A demo can be found at: https://atuljatia.github.io/pathfinder-visualisation/
 
-## Tech Stack used:
+## Tech Stack used
 
 **Front-end framework**: React.js
 <br>
@@ -12,7 +12,7 @@ A demo can be found at: https://atuljatia.github.io/pathfinder-visualisation/
 
 <br>
 
-## Screenshots:
+## Screenshots
 
 <h3> Drawing walls</h3>
 
