@@ -9,3 +9,13 @@ A demo can be found at: https://atuljatia.github.io/pathfinder-visualisation/
 **Front-end framework**: React.js
 <br>
 **Styling**: CSS
+
+<br>
+<br>
+<br>
+## Screenshots:
+
+
+![Image of project](https://raw.githubusercontent.com/AtulJatia/pathfinder-visualisation/master/sample1.PNG)
+
+![Image of project](https://raw.githubusercontent.com/AtulJatia/pathfinder-visualisation/master/sample2.PNG)
