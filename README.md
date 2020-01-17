@@ -14,7 +14,12 @@ A demo can be found at: https://atuljatia.github.io/pathfinder-visualisation/
 
 ## Screenshots:
 
+<h3> Drawing walls</h3>
 
 ![Image of project](https://raw.githubusercontent.com/AtulJatia/pathfinder-visualisation/master/sample1.PNG)
+
+<br>
+
+<h3> After shortest path is found and visualisation </h3>
 
 ![Image of project](https://raw.githubusercontent.com/AtulJatia/pathfinder-visualisation/master/sample2.PNG)
